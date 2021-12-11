@@ -1,0 +1,82 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+.form-check-input {
+	margin-left: 10px;
+}
+.form-label {
+	margin-top: 5px;
+	margin-right: -5px;
+	padding-right: 0px;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+.checkbox-label {
+	margin-top: 0px;
+	margin-right: 0px;
+}
+.center-dash {
+	text-align: center;
+}
+.form-submit {
+	width: 100%;
+}
+.btn-block {
+	width: 100%;
+}
+.btn-secondary {
+	margin-right: 10px;
+}
+.nav {
+	padding: 10px 0px 10px 0px;
+}
+.container-fluid {
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.nav-link {
+	color: rgb(175, 184, 187);
+}
+.nav-link.active {
+	color: #fff;
+}
+.nav-link:hover {
+	text-decoration: underline;
+	color: #fff;
+}
+.restaurant-name {
+	text-align: center;
+	/* padding: 10px 0px 10px 0px; */
+}
+.details-col-left {
+	padding: 0px 15px 0px 40px;
+}
+.details-col-right {
+	padding: 0px 40px 0px 15px;
+}
+.center-btns {
+	text-align: center;
+}
+.td-element {
+	vertical-align: middle;
+}
+.header {
+	text-align: center;
+}
+.modal {
+	display: block !important;
+}
+.panel {
+	width: 100%;
+}
+.btn-darkish {
+	background-color: #33333385;
+	box-shadow: 0px 2px 3px rgb(26, 26, 26);
+}
+.accordion-col {
+	text-align: center;
+	margin: auto;
+}
